@@ -1,28 +1,35 @@
 # Print
 
-## Misol
+Biror bir qiymatni, masalan son, matn va boshqa turdagi ma'lumotlarni ekranga chiqarish uchun pythonda `print`
+funksiyasidan foydalaniladi.
 
-Sonni ekranga chiqarish
-
-```python
-print(12) # Bu kod ishga tushganda 12 soni ekranga chiqadi
-
-print(-34) # Bu kod ishga tushganda -34 soni ekranga chiqadi
-
-print(12.5) # Bu kod ishga tushganda 12.5 soni ekranga chiqadi
-```
-
-Shunchaki `print` funksiyasi ichiga ekranga chiqarmoqchi bo'lgan sonimizni yozamiz.
-
-::: tip Eslatma
+::: tip
 `print` funksiyasi ma'lumotlarni ekranga chiqarish uchun foydalaniladi.
 
-Funksiya deb ma'lum bir vazifani bajaruvchi kodga aytiladi.
+Funksiya deb ma'lum bir vazifani bajaruvchi qismga aytiladi.
 
 Funksiya mavzusiga batafsil keyingi darslarda to'xtalamiz.
 :::
 
-Matnli ma'lumotlarni ekranga chiqarish
+## Sonni ekranga chiqarish
+
+Misol uchun:
+
+```python
+print(12)
+```
+
+Shunchaki `print` funksiyasi ichiga ekranga chiqarmoqchi bo'lgan sonimizni yozamiz.
+
+Natija
+
+```text
+12
+```
+
+## Matnli ma'lumotlarni ekranga chiqarish
+
+Misol uchun:
 
 ```python
 print("Salom")
@@ -36,6 +43,10 @@ Salom
 
 matni chiqadi.
 
+::: tip
+Pythonda matnli ma'lumotlar qo'shtirnoq ichiga olib yoziladi.
+:::
+
 Matnni boshqacha holatda ham ekranga chiqarish mumkin.
 
 ```python
@@ -43,10 +54,6 @@ print('Salom')
 ```
 
 Bu holatda ham avvalgisi bilan bir xil natija chiqadi. Ikkala ko'rinishda ham yozish to'g'ri.
-
-:::tip Yodda tuting
-Pythonda matnli ma'lumotlar qo'shtirnoq yoki birtirnoq ichiga olib yoziladi.
-:::
 
 ## Bir necha ma'lumotlarni ekranga chiqarish
 
@@ -62,6 +69,4 @@ Natija
 Men 2000 - yilda tug'ilganman
 ```
 
-## Video tutorial
-
-Watch a free [video lesson](https://youtube.com/) on YouTube.
+`print` funksiyasi haqida batafsil ma'lumot uchun [bu yerga](../api-reference/print.md) bosing.
