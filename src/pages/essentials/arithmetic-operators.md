@@ -2,14 +2,14 @@
 outline: deep
 ---
 
-# Arithmetic operators
+# Arifmetik operatorlar
 
-## What is arithmetic operators?
+## Arifmetik operatorlar nima?
 
 Arifmetik operatorlar ma'lumotlar ustida amal bajarish uchun foydalanadi.
 Ularning har birini quyida birma-bir ko'rib chiqamiz.
 
-### Qo'shish operatori
+## Qo'shish operatori
 
 Sonli hamda matnli ma'lumotlarni qo'shish uchun foydalaniladi.
 
@@ -34,7 +34,7 @@ Ya'ni sonlar bilan faqat sonlar ustida qo'shish amalini bajarish mumkin.
 Xuddi shunday matnli ma'lumotlar bilan faqat matnli ma'lumotlar ustida qo'shish amalini bajarish mumkin.
 :::
 
-### Ayirish operatori
+## Ayirish operatori
 
 Sonli ma'lumotlarni ayirish uchun foydalaniladi.
 
@@ -48,7 +48,7 @@ Natija
 48
 ```
 
-### Ko'paytirish operatori
+## Ko'paytirish operatori
 
 Sonli ma'lumotlarni ko'paytirish uchun foydalaniladi.
 
@@ -74,7 +74,7 @@ Natijada `ha` matni `10`marta yonma-yon yozilib chiqadi.
 hahahahahahahahahaha
 ```
 
-### Bo'lish operatori
+## Bo'lish operatori
 
 Sonli ma'lumotlarni bo'lish uchun foydalaniladi.
 
@@ -88,7 +88,7 @@ Natija
 2.4
 ```
 
-### Butunli bo'lish operatori
+## Butunli bo'lish operatori
 
 Sonni songa bo'lib, butun qismini olish uchun foydalaniladi.
 
@@ -102,7 +102,7 @@ Natija
 9
 ```
 
-### Qoldiqli bo'lish operatori
+## Qoldiqli bo'lish operatori
 
 Sonni songa bo'lganda chiqadigan qoldiqni olish uchun foydalaniladi.
 
@@ -116,7 +116,7 @@ Natija
 2
 ```
 
-### Darajaga oshirish operatori
+## Darajaga oshirish operatori
 
 Sonni biror bir darajaga ko'tarish uchun foydalaniladi.
 

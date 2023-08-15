@@ -1,4 +1,4 @@
-# Printing data
+# Print
 
 ## Misol
 
