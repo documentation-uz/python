@@ -69,4 +69,4 @@ Natija
 Men 2000 - yilda tug'ilganman
 ```
 
-`print` funksiyasi haqida batafsil ma'lumot uchun [bu yerga](../api-reference/print.md) bosing.
+`print` funksiyasi haqida batafsil ma'lumotni [bu yerda](../api-reference/print.md) topishingiz mumkin.

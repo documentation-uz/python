@@ -1,7 +1,9 @@
 # Input
 
+## Qo'llanilishi
+
 Biror amal bajarish uchun foydalanuvchi tomonidan ma'lumot kiritish uchun
-`input` funksiyasidan foydalanmiz.
+`input` funksiyasidan foydalanamiz.
 
 ```python {1}
 a = input()
@@ -17,6 +19,8 @@ Siz kiritgan ma'lumot: olma
 ```
 
 `a` o'zgaruvchisining qiymati foydalanuvchi tomonidan kiritilgan ma'lumotga teng bo'ladi.
+
+## Bildirishnoma chiqarish
 
 Dasturni ishga tushirganimizda bizdan aynan qanday qiymat kiritish kerakligi haqida
 ma'lumot chiqarish uchun quyidagicha yozishimiz mumkin:
@@ -36,6 +40,8 @@ Kodni ishlatganda `Usmon`, `Ergashev` ma'lumotlarini kiritsak, natija
 ```text
 Salom Usmon Ergashev
 ```
+
+## Ma'lumot turi qanday bo'ladi?
 
 `input` orqali ma'lumot kiritsak, o'zgaruvchining toifasi `str` bo'ladi.
 
@@ -66,3 +72,5 @@ print(a + b)
 `a` va `b` o'zgaruvchilariga foydalanuvchilar tomonidan qiymat kiritilganda dastlab
 ularning toifasi `str` bo'ladi. Shuning uchun `int` toifasiga o'tkazib, keyin ularning
 yig'indisini hisoblaymiz.
+
+`input` funksiyasi haqida batafsil ma'lumotni [bu yerda](../api-reference/input.md) topishingiz mumkin.

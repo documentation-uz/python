@@ -31,11 +31,11 @@ export default defineConfig({
                 items: [
                     {text: 'Syntax', link: '/essentials/syntax'},
                     {text: 'Print', link: '/essentials/print'},
-                    {text: 'Input', link: '/essentials/input'},
                     {text: 'Arithmetic operators', link: '/essentials/arithmetic-operators'},
                     {text: 'Variables', link: '/essentials/variables'},
                     {text: 'Data types', link: '/essentials/data-types'},
                     {text: 'Change data type', link: '/essentials/change-data-type'},
+                    {text: 'Input', link: '/essentials/input'},
                     {text: 'Logical operators', link: '/essentials/logical-operators'},
                     {text: 'Comparison operators', link: '/essentials/comparison-operators'},
                     {text: 'String', link: '/essentials/string'},
