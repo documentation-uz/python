@@ -11,7 +11,7 @@ Ularning har birini quyida birma-bir ko'rib chiqamiz.
 
 ## Qo'shish operatori
 
-Sonli hamda matnli ma'lumotlarni qo'shish uchun foydalaniladi.
+Sonlarni hamda matnli ma'lumotlarni qo'shish uchun foydalaniladi.
 
 ```python
 print(34 + 5)
@@ -36,7 +36,7 @@ Xuddi shunday matnli ma'lumotlar bilan faqat matnli ma'lumotlar ustida qo'shish 
 
 ## Ayirish operatori
 
-Sonli ma'lumotlarni ayirish uchun foydalaniladi.
+Sonlarni ayirish uchun foydalaniladi.
 
 ```python
 print(53 - 5)
@@ -50,7 +50,7 @@ Natija
 
 ## Ko'paytirish operatori
 
-Sonli ma'lumotlarni ko'paytirish uchun foydalaniladi.
+Sonlarni ko'paytirish uchun foydalaniladi.
 
 ```python
 print(12 * 5)
@@ -76,7 +76,7 @@ hahahahahahahahahaha
 
 ## Bo'lish operatori
 
-Sonli ma'lumotlarni bo'lish uchun foydalaniladi.
+Sonlarni bo'lish uchun foydalaniladi.
 
 ```python
 print(12 / 5)

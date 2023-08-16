@@ -31,6 +31,7 @@ export default defineConfig({
                 items: [
                     {text: 'Syntax', link: '/essentials/syntax'},
                     {text: 'Print', link: '/essentials/print'},
+                    {text: 'Comments', link: '/essentials/comments'},
                     {text: 'Arithmetic operators', link: '/essentials/arithmetic-operators'},
                     {text: 'Variables', link: '/essentials/variables'},
                     {text: 'Data types', link: '/essentials/data-types'},
@@ -52,7 +53,6 @@ export default defineConfig({
                     {text: '*args and **kwargs', link: '/essentials/args-and-kwargs'},
                     {text: 'Lambda', link: '/essentials/lambda'},
                     {text: 'Decorator', link: '/essentials/decorator'},
-                    {text: 'Comments', link: '/essentials/comments'},
                     {text: 'Introduction to OOP', link: '/essentials/oop/introduction-to-oop'},
                     {text: 'Class', link: '/essentials/oop/class.md'},
                     {text: 'Methods', link: '/essentials/oop/methods.md'},
