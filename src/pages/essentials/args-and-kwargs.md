@@ -11,7 +11,7 @@ Bundan ko'ra o'zgaruvchilar soni istalgan bo'lganda ham ularning yig'indisini
 hisoblaydigan funksiya yozish mumkin. Xoh 2ta, xoh 3ta bu funksiya ularning
 yig'indisini hisoblab, natijani sizga qaytaradi.
 
-Buning uchun *args dan foydalanamiz.
+Buning uchun `*args` dan foydalanamiz.
 
 ```python {1}
 def sum_of_numbers(*args):
