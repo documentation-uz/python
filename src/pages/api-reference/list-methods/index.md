@@ -1,4 +1,4 @@
-# List methods
+# List methods API reference
 
 * append
 * clear

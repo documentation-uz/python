@@ -154,6 +154,13 @@ export default defineConfig({
                             {text: 'reverse', link: '/api-reference/list-methods/reverse'},
                             {text: 'sort', link: '/api-reference/list-methods/sort'},
                         ]
+                    },
+                    {
+                        text: 'Tuple methods', link: '/api-reference/tuple-methods/', collapsed: true,
+                        items: [
+                            {text: 'count', link: '/api-reference/tuple-methods/count'},
+                            {text: 'index', link: '/api-reference/tuple-methods/index'},
+                        ]
                     }
                 ]
             }
