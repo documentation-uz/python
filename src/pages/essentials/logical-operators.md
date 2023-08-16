@@ -8,8 +8,7 @@
 
 `False` - yolg'on
 
-Agar mulohaza rost bo'lsa, javob True bo'ladi. Masalan,
-7 soni 5 sonidan katta. Bu mulohaza rost, chunki haqiqatdan
+Agar mulohaza rost bo'lsa, javob `True` bo'ladi. Masalan, 7 soni 5 sonidan katta. Bu mulohaza rost, chunki haqiqatdan
 7 soni 5 sonidan katta. Demak javob `True` bo'ladi.
 
 Buni dasturlashda quyidagicha yozamiz:
@@ -151,6 +150,6 @@ True
 ```
 
 :::tip Yodda tuting
-`and`, `or`, `not` mantiqiy operatorlaridan birinchi `not` inkor amali, keyin `and` 
+`and`, `or`, `not` mantiqiy operatorlaridan birinchi `not` inkor amali, keyin `and`
 ko'paytirish amali va oxirida `or` mantiqiy qo'shish amali bajariladi.
 :::
