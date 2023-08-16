@@ -46,6 +46,7 @@ export default defineConfig({
                     {text: 'Tuple', link: '/essentials/tuple'},
                     {text: 'Set', link: '/essentials/set'},
                     {text: 'Dictionary', link: '/essentials/dictionary'},
+                    {text: 'Dictionary methods', link: '/essentials/dictionary-methods'},
                     {text: 'If statement', link: '/essentials/if-statement'},
                     {text: 'For loop', link: '/essentials/for-loop'},
                     {text: 'While loop', link: '/essentials/while-loop'},
@@ -179,9 +180,28 @@ export default defineConfig({
                             {text: 'pop', link: '/api-reference/set-methods/pop'},
                             {text: 'remove', link: '/api-reference/set-methods/remove'},
                             {text: 'symmetric_difference', link: '/api-reference/set-methods/symmetric-difference'},
-                            {text: 'symmetric_difference_update', link: '/api-reference/set-methods/symmetric-difference-update'},
+                            {
+                                text: 'symmetric_difference_update',
+                                link: '/api-reference/set-methods/symmetric-difference-update'
+                            },
                             {text: 'union', link: '/api-reference/set-methods/union'},
                             {text: 'update', link: '/api-reference/set-methods/update'},
+                        ]
+                    },
+                    {
+                        text: 'Dictionary methods', link: '/api-reference/dictionary-methods/', collapsed: true,
+                        items: [
+                            {text: 'clear', link: '/api-reference/dictionary-methods/clear'},
+                            {text: 'copy', link: '/api-reference/dictionary-methods/copy'},
+                            {text: 'fromkeys', link: '/api-reference/dictionary-methods/fromkeys'},
+                            {text: 'get', link: '/api-reference/dictionary-methods/get'},
+                            {text: 'items', link: '/api-reference/dictionary-methods/items'},
+                            {text: 'keys', link: '/api-reference/dictionary-methods/keys'},
+                            {text: 'pop', link: '/api-reference/dictionary-methods/pop'},
+                            {text: 'popitem', link: '/api-reference/dictionary-methods/popitem'},
+                            {text: 'setdefault', link: '/api-reference/dictionary-methods/setdefault'},
+                            {text: 'update', link: '/api-reference/dictionary-methods/update'},
+                            {text: 'values', link: '/api-reference/dictionary-methods/values'},
                         ]
                     }
                 ]
