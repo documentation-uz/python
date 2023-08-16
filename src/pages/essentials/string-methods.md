@@ -20,7 +20,6 @@ Natija
 Tulki
 ```
 
-
 **For more information:**
 
 [**▶︎ Watch free lesson on YouTube**](https://youtube.com)
@@ -88,3 +87,4 @@ True
 False
 ```
 
+String metodlari bo'yicha to'liq ma'lumot olish uchun [bu yerga](../api-reference/string-methods/index.md) bosing.
