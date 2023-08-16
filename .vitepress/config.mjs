@@ -138,6 +138,22 @@ export default defineConfig({
                             {text: 'upper', link: '/api-reference/string-methods/upper'},
                             {text: 'zfill', link: '/api-reference/string-methods/zfill'},
                         ]
+                    },
+                    {
+                        text: 'List methods', link: '/api-reference/list-methods/', collapsed: true,
+                        items: [
+                            {text: 'append', link: '/api-reference/list-methods/append'},
+                            {text: 'clear', link: '/api-reference/list-methods/clear'},
+                            {text: 'copy', link: '/api-reference/list-methods/copy'},
+                            {text: 'count', link: '/api-reference/list-methods/count'},
+                            {text: 'extend', link: '/api-reference/list-methods/extend'},
+                            {text: 'index', link: '/api-reference/list-methods/index'},
+                            {text: 'insert', link: '/api-reference/list-methods/insert'},
+                            {text: 'pop', link: '/api-reference/list-methods/pop'},
+                            {text: 'remove', link: '/api-reference/list-methods/remove'},
+                            {text: 'reverse', link: '/api-reference/list-methods/reverse'},
+                            {text: 'sort', link: '/api-reference/list-methods/sort'},
+                        ]
                     }
                 ]
             }
