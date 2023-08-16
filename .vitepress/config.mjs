@@ -161,6 +161,28 @@ export default defineConfig({
                             {text: 'count', link: '/api-reference/tuple-methods/count'},
                             {text: 'index', link: '/api-reference/tuple-methods/index'},
                         ]
+                    },
+                    {
+                        text: 'Set methods', link: '/api-reference/set-methods/', collapsed: true,
+                        items: [
+                            {text: 'add', link: '/api-reference/set-methods/add'},
+                            {text: 'clear', link: '/api-reference/set-methods/clear'},
+                            {text: 'copy', link: '/api-reference/set-methods/copy'},
+                            {text: 'difference', link: '/api-reference/set-methods/difference'},
+                            {text: 'difference_update', link: '/api-reference/set-methods/difference-update'},
+                            {text: 'discard', link: '/api-reference/set-methods/discard'},
+                            {text: 'intersection', link: '/api-reference/set-methods/intersection'},
+                            {text: 'intersection_update', link: '/api-reference/set-methods/intersection-update'},
+                            {text: 'isdisjoint', link: '/api-reference/set-methods/isdisjoint'},
+                            {text: 'issubset', link: '/api-reference/set-methods/issubset'},
+                            {text: 'issuperset', link: '/api-reference/set-methods/issuperset'},
+                            {text: 'pop', link: '/api-reference/set-methods/pop'},
+                            {text: 'remove', link: '/api-reference/set-methods/remove'},
+                            {text: 'symmetric_difference', link: '/api-reference/set-methods/symmetric-difference'},
+                            {text: 'symmetric_difference_update', link: '/api-reference/set-methods/symmetric-difference-update'},
+                            {text: 'union', link: '/api-reference/set-methods/union'},
+                            {text: 'update', link: '/api-reference/set-methods/update'},
+                        ]
                     }
                 ]
             }
