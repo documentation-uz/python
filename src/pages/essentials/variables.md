@@ -8,7 +8,7 @@ Quyidagi kodda `a` o'zgaruvchisi e'lon qilingan va uning qiymati `12` etib belgi
 a = 12
 ```
 
-::: tip Yodda tuting
+::: tip
 Barobardan chap tomonda o'zgaruvchining nomi, o'ng tomonda esa o'zgaruvchining qiymati turadi.
 :::
 

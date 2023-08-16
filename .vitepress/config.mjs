@@ -66,6 +66,26 @@ export default defineConfig({
                 items: [
                     {text: 'print', link: '/api-reference/print'},
                     {text: 'input', link: '/api-reference/input'},
+                    {
+                        text: 'Data types', link: '/api-reference/data-types/', collapsed: true,
+                        items: [
+                            {text: 'str', link: '/api-reference/data-types/str'},
+                            {text: 'int', link: '/api-reference/data-types/int'},
+                            {text: 'float', link: '/api-reference/data-types/float'},
+                            {text: 'complex', link: '/api-reference/data-types/complex'},
+                            {text: 'list', link: '/api-reference/data-types/list'},
+                            {text: 'tuple', link: '/api-reference/data-types/tuple'},
+                            {text: 'range', link: '/api-reference/data-types/range'},
+                            {text: 'dict', link: '/api-reference/data-types/dict'},
+                            {text: 'set', link: '/api-reference/data-types/set'},
+                            {text: 'frozenset', link: '/api-reference/data-types/frozenset'},
+                            {text: 'bool', link: '/api-reference/data-types/bool'},
+                            {text: 'bytes', link: '/api-reference/data-types/bytes'},
+                            {text: 'bytearray', link: '/api-reference/data-types/bytearray'},
+                            {text: 'memoryview', link: '/api-reference/data-types/memoryview'},
+                            {text: 'NoneType', link: '/api-reference/data-types/none-type'},
+                        ]
+                    }
                 ]
             }
         ],
