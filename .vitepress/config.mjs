@@ -12,6 +12,10 @@ export default defineConfig({
         search: {
             provider: 'local'
         },
+        editLink: {
+            pattern: 'https://github.com/documentation-uz/python/tree/main/src/pages/:path',
+            text: 'Edit this page on GitHub',
+        },
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: 'Home', link: '/'},
