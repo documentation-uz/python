@@ -11,11 +11,11 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "vue": "^3.4.16"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
-    "vite": "^4.4.6",
-    "vitepress": "^1.0.0-rc.32"
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.12",
+    "vitepress": "^1.0.0-rc.42"
   }
 }
