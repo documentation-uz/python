@@ -89,5 +89,5 @@ Natija
 
 Bundan `a` o'zgaruvchisining toifasi `str` ekanligi kelib chiqadi.
 
-Ma'lumot turlarining to'liq ro'yxati bilan [bu yerda](../api-reference/data-types/index.md) tanishib chiqishingiz
+Ma'lumot turlarining to'liq ro'yxati bilan [bu yerda](../../api-reference/data-types/index.md) tanishib chiqishingiz
 mumkin.

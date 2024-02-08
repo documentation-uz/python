@@ -115,5 +115,5 @@ Listda qiymati `2`ga teng bo'lgan elementlar nechtaligini sanaydi. Natija
 3
 ```
 
-List metodlarining to'liq ro'yxati bilan [bu yerda](../api-reference/list-methods/index.md) tanishib chiqishingiz
+List metodlarining to'liq ro'yxati bilan [bu yerda](../../api-reference/list-methods/index.md) tanishib chiqishingiz
 mumkin.

@@ -87,4 +87,4 @@ True
 False
 ```
 
-String metodlari bo'yicha to'liq ma'lumot olish uchun [bu yerga](../api-reference/string-methods/index.md) bosing.
+String metodlari bo'yicha to'liq ma'lumot olish uchun [bu yerga](../../api-reference/string-methods/index.md) bosing.

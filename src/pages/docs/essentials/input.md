@@ -73,4 +73,4 @@ print(a + b)
 ularning toifasi `str` bo'ladi. Shuning uchun `int` toifasiga o'tkazib, keyin ularning
 yig'indisini hisoblaymiz.
 
-`input` funksiyasi haqida batafsil ma'lumotni [bu yerda](../api-reference/input.md) topishingiz mumkin.
+`input` funksiyasi haqida batafsil ma'lumotni [bu yerda](../../api-reference/input.md) topishingiz mumkin.

@@ -34,5 +34,5 @@ Masalan, obyektga `str()` bilan murojaat qilinganda `__str__` magic metodi,
 yoki bo'lmasam, `int()` bilan murojaat qilinganda `__int__` magic metodi
 ishga tushadi.
 
-Magic metodlarning to'liq ro'yxati bilan tanishib chiqish uchun [bu yerga](../../api-reference/magic-methods/index.md)
+Magic metodlarning to'liq ro'yxati bilan tanishib chiqish uchun [bu yerga](../../../api-reference/magic-methods/index.md)
 bosing.
